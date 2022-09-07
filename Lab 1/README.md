@@ -5,4 +5,7 @@
 Implement the formula in the language Ruby.
 Enter the data required for the solution using the keyboard.
 
-![formula](media/img.png)
+![formula](media/task description.png)
+
+### Solution
+[task.rb](task.rb)
