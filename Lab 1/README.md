@@ -1,11 +1,9 @@
 # Lab 1
 
-### Task:
-
+**Task:**
 Implement the formula in the language Ruby.
 Enter the data required for the solution using the keyboard.
+![formula](media/task%20description.png)
 
-![formula](media/task description.png)
-
-### Solution
+**Solution:**
 [task.rb](task.rb)
