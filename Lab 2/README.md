@@ -15,8 +15,8 @@ Calculate the area of a polygon given by vertex coordinates.
 ### Task:
 Calculate the area of a polygon given by vertex coordinates.
 
-![formula](media/task%202%20description%20part 1.png)
-![formula](media/task%202%20description%20part 2.png)
+![formula](media/task%202%20description%20part%201.png)
+![formula](media/task%202%20description%20part%202.png)
 
 ### Solution:
 [task 2.rb](task%202.rb)
