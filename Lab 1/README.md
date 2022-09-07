@@ -1,5 +1,8 @@
 # Lab 1
 
+## Short video about Lab 1
+![video](media/solution%20video.mp4)
+
 ### Task:
 Implement the formula in the language Ruby.
 Enter the data required for the solution using the keyboard.
