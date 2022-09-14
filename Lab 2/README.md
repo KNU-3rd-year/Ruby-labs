@@ -20,7 +20,8 @@ given by its vertices in the order of traversal, is calculated by the formula:
 
 ## Part 2:
 ### Task:
-Calculate the area of a polygon given by vertex coordinates.
+Calculate the range of numbers represented with a fixed point in base P, 
+if the number has t + 1 digits, of which r is for the integer part of the number (see task options below).
 
 ![formula](media/task%202%20description%20part%201.png)
 ![formula](media/task%202%20description%20part%202.png)
