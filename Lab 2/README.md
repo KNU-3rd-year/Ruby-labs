@@ -31,3 +31,15 @@ Convert a number from binary to decimal (see task options below)
 
 ### Solution:
 [task 3.rb](task%203.rb)
+
+---
+
+## Part 4:
+### Task:
+Convert a number from decimal to binary (see task options).
+below)
+
+![formula](media/task%204.png)
+
+### Solution:
+[task 3.rb](task%204.rb)
