@@ -4,9 +4,16 @@
 ### Task:
 Calculate the area of a polygon given by vertex coordinates.
 
-![formula](media/task%201%20description.png)
+![formula](media/task%201%20description%20part%202.png)
+
+![formula](media/task%201%20description%20part%201.png)
 
 ### Solution:
+The area of a polygon, represented by a closed polyline without self-intersections, 
+given by its vertices in the order of traversal, is calculated by the formula:
+
+![formula](media/task%201%20solution.png)
+
 [task 1.rb](task%201.rb)
 
 ---
@@ -19,6 +26,10 @@ Calculate the area of a polygon given by vertex coordinates.
 ![formula](media/task%202%20description%20part%202.png)
 
 ### Solution:
+We use the formula:
+
+![formula](media/task%202%20solution.png)
+
 [task 2.rb](task%202.rb)
 
 ---
