@@ -1,7 +1,7 @@
 # Lab 2
 
 ## Short video about Lab 2:
-You can find a [short video](media/Lab%202%20solution%20video%20Ruby.mkv) about this lab!
+https://user-images.githubusercontent.com/39382424/190200564-438138a1-61c8-4c62-9044-f9cc9f8b8800.mp4
 
 ## Part 1:
 ### Task:
