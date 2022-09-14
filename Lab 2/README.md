@@ -36,8 +36,7 @@ Convert a number from binary to decimal (see task options below)
 
 ## Part 4:
 ### Task:
-Convert a number from decimal to binary (see task options).
-below)
+Convert a number from decimal to binary (see task options below)
 
 ![formula](media/task%204.png)
 
