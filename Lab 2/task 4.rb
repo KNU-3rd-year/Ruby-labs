@@ -8,4 +8,4 @@ while decimal > 0
   decimal /= 2
 end
 
-print 'binary = ', binary
+print 'binary = ', binary, "\n"
