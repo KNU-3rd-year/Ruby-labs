@@ -1,3 +1,10 @@
+=begin
+example params:
+P = 5
+t = 8
+r = 0
+=end
+
 puts 'type P:'
 p = gets.chomp.to_f
 puts 'type t:'

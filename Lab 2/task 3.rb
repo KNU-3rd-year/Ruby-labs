@@ -1,3 +1,8 @@
+=begin
+example binary number:
+10001001001001
+=end
+
 puts 'type binary number:'
 binary = gets.chomp
 

@@ -1,3 +1,8 @@
+=begin
+example decimal number:
+192
+=end
+
 puts 'type decimal number:'
 decimal = gets.chomp.to_i
 
