@@ -1,5 +1,8 @@
 # Lab 2
 
+## Short video about Lab 2:
+You can find a [short video](media/Lab%202%20solution%20video%20Ruby.mkv) about this lab!
+
 ## Part 1:
 ### Task:
 Calculate the area of a polygon given by vertex coordinates.
