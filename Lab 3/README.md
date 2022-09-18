@@ -29,3 +29,14 @@ x = 3; R = yes.
 ### Solution:
 
 [task 1.rb](task%201b.rb)
+
+## Part 2:
+### Task:
+Write the given expression using the if statement and the statement
+case.
+
+![formula](media/task%202.png)
+
+### Solution:
+
+[task 2.rb](task%202.rb)
