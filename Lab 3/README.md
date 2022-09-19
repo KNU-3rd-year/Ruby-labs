@@ -30,6 +30,8 @@ x = 3; R = yes.
 
 [task 1.rb](task%201b.rb)
 
+---
+
 ## Part 2:
 ### Task:
 Write the given expression using the if statement and the statement
@@ -40,3 +42,40 @@ case.
 ### Solution:
 
 [task 2.rb](task%202.rb)
+
+---
+
+## Part 3:
+### Task:
+Write in the language of Ruby programs, choosing two tasks from
+below.
+
+![formula](media/task%203.png)
+
+### Solution:
+
+[task 2.rb](task%203.rb)
+
+---
+
+## Part 4:
+### Task:
+Calculate the endless ranks with accuracy to ε = 0.00001
+
+![formula](media/task%204.png)
+
+### Solution:
+
+[task 2.rb](task%204.rb)
+
+---
+
+## Part 5:
+### Task:
+Perform the functions of the following conditions.
+
+![formula](media/task%205.png)
+
+### Solution:
+
+[task 2.rb](task%205.rb)
