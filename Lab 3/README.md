@@ -1,5 +1,8 @@
 # Lab 3
 
+## Short video about Lab 3:
+![video](media/Lab%203%20solution%20video%20Ruby.mp4)
+
 ## Part 1:
 ### Task a:
 Calculate boolean values
