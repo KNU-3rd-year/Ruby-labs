@@ -2,8 +2,8 @@ require 'matrix'
 
 n = 8
 
-ar_a = Array.new(n).map! { Array.new(n).map! { rand(50) } }
-ar_b = Array.new(n).map! { Array.new(n).map! { rand(50) } }
+ar_a = Array.new(n).map! { Array.new(n).map! { rand(10) } }
+ar_b = Array.new(n).map! { Array.new(n).map! { rand(10) } }
 
 (0..n-1).each do |i|
   ar_a[i][i] = 1
