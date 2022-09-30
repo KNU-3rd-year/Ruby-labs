@@ -1,5 +1,10 @@
 # Lab 4
 
+## Short video about Lab 4:
+![video](https://user-images.githubusercontent.com/39382424/193329470-d702e815-35db-4f5e-9d3f-9161a2a09f8c.mp4)
+
+
+
 ## Part 1:
 Write programs according to given conditions. Where
 maybe use iterators. The data input to the array is arbitrary (for example,
