@@ -1,7 +1,7 @@
 # Lab 4
 
 ## Short video about Lab 4:
-![video](https://user-images.githubusercontent.com/39382424/193329470-d702e815-35db-4f5e-9d3f-9161a2a09f8c.mp4)
+https://user-images.githubusercontent.com/39382424/193329470-d702e815-35db-4f5e-9d3f-9161a2a09f8c.mp4
 
 
 
