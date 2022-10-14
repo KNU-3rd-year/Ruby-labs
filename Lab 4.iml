@@ -5,6 +5,5 @@
     <content url="file://$MODULE_DIR$/Lab 4" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="matrix (v0.4.2, ruby-3.1.2-p20) [gem]" level="application" />
   </component>
 </module>
